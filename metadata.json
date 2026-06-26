@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Localization AI Control (L-AI-C)",
+  "description": "منصة حوكمة وتوطين ديناميكي لبرمجيات الشركات مع نظام اشتراكات ومكافآت ذكي وحماية أمنية فائقة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
